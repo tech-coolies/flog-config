@@ -4,6 +4,7 @@
     "t_wired": "http://192.168.178.56:8092",
     "t_wireless": "http://192.168.178.91:8092",
     "t_new_wired": "http://192.168.178.92:8092",
+    "t_wireless1": "77.172.40.224:8092",
     "new_b": "http://10.1.1.109:8092",
     "gcssharma_5g": "http://192.168.0.117:8092",
     "gcp": "https://api.flogmystats.com",
@@ -14,7 +15,8 @@
     "t": "88674195-6848-4a48-8d1a-4975bce5b6b8",
     "mdev": "060a69b7-c0fb-41c6-b25b-0d43abb294b7",
     "mprod": "8d67bb33-3a3a-4425-80db-9e24291434cd",
-    "mprod1": "2830b1e2-a75a-4ff4-b43c-6ced3d13e25d"
+    "mprod1": "2830b1e2-a75a-4ff4-b43c-6ced3d13e25d",
+    "mprod-s20": "89521fff-8646-4f4c-b632-e3e3d351dc6e"
   },
   "block_crash_reporting": false,
   "block_analytics": false
