@@ -7,7 +7,7 @@
     "new_b": "http://10.1.1.109:8092",
     "gcssharma_5g": "http://192.168.0.117:8092",
     "gcp": "https://api.log4health.com",
-    "current": "http://192.168.178.91:8092"
+    "current": "https://api.log4health.com"
   },
   "dev_user_ids": {
     "b": "ee807498-0852-4d03-94b9-dab979c10e1e",
