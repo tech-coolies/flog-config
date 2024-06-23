@@ -19,6 +19,10 @@
     "m-new-s24": "3d8dcff6-82b3-4f1b-b3f5-943a74ea666a",
     "rohit": "6aba7a2f-b974-4e74-93d3-d5e9cd7a72f5"
   },
+  "contributor_ids": {
+    "b": "ee807498-0852-4d03-94b9-dab979c10e1e",
+    "mprod-s24": "89521fff-8646-4f4c-b632-e3e3d351dc6e"
+  },
   "block_crash_reporting": false,
   "block_analytics": false
 }
