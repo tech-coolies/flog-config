@@ -11,6 +11,7 @@
   },
   "dev_user_ids": {
     "b": "ee807498-0852-4d03-94b9-dab979c10e1e",
+    "b_appstore_ver": "21b6bd39-1b85-4955-b9ed-b595879bfe0f",
     "t": "88674195-6848-4a48-8d1a-4975bce5b6b8",
     "mdev": "060a69b7-c0fb-41c6-b25b-0d43abb294b7",
     "mprod": "8d67bb33-3a3a-4425-80db-9e24291434cd",
@@ -27,5 +28,6 @@
   "block_crash_reporting": false,
   "block_analytics": false
 }
+
 
 
