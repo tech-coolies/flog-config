@@ -1,23 +1,13 @@
 {
   "server_address": {
-    "b": "http://10.1.1.104:8092",
-    "t_wired": "http://192.168.178.56:8092",
     "t_wireless": "http://192.168.178.91:8092",
     "t_new_wired": "http://192.168.178.111:8092",
-    "new_b": "http://10.1.1.109:8092",
-    "gcssharma_5g": "http://192.168.0.117:8092",
-    "gcp": "https://api.log4health.com",
+    "b_new": "http://10.1.1.109:8092",
     "current": "https://api.log4health.com"
   },
   "dev_user_ids": {
     "b": "ee807498-0852-4d03-94b9-dab979c10e1e",
-    "t": "88674195-6848-4a48-8d1a-4975bce5b6b8",
-    "mdev": "060a69b7-c0fb-41c6-b25b-0d43abb294b7",
-    "mprod": "8d67bb33-3a3a-4425-80db-9e24291434cd",
-    "mprod1": "2830b1e2-a75a-4ff4-b43c-6ced3d13e25d",
-    "mprod-s24": "89521fff-8646-4f4c-b632-e3e3d351dc6e",
-    "m-new-s24": "3d8dcff6-82b3-4f1b-b3f5-943a74ea666a",
-    "rohit": "6aba7a2f-b974-4e74-93d3-d5e9cd7a72f5"
+    "t": "88674195-6848-4a48-8d1a-4975bce5b6b8"
   },
   "contributor_ids": {
     "b": "ee807498-0852-4d03-94b9-dab979c10e1e",
