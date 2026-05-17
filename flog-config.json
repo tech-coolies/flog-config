@@ -1,21 +1,4 @@
 {
-  "server_address": {
-    "t_wireless": "http://192.168.178.91:8092",
-    "t_new_wired": "http://192.168.178.111:8092",
-    "b_new": "http://10.1.1.109:8092",
-    "current": "https://api.log4health.com"
-  },
-  "dev_user_ids": {
-    "b": "ee807498-0852-4d03-94b9-dab979c10e1e",
-    "t": "88674195-6848-4a48-8d1a-4975bce5b6b8"
-  },
-  "contributor_ids": {
-    "b": "ee807498-0852-4d03-94b9-dab979c10e1e",
-    "t": "88674195-6848-4a48-8d1a-4975bce5b6b8",
-    "mel-greenibis": "2e876d5b-bc9c-4802-8445-38019f79bffe"
-  },
-  "block_crash_reporting": false,
-  "block_analytics": false
 }
 
 
